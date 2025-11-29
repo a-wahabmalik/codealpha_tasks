@@ -1,1 +1,18 @@
-A comprehensive Cyber Security portfolio developed during my CodeAlpha Internship . Features a Python-based network packet analyzer for traffic inspection, a complete phishing awareness training program, and a configured Network Intrusion Detection System Using Snort/Suricata for real-time threat monitoring
+ CodeAlpha Cybersecurity Internship Portfolio
+
+## 📋 Projects Overview
+
+### Task 1: Network Packet Sniffer
+- Python-based packet analyzer using Scapy
+- Captures and examines network traffic
+- Displays source/destination IPs, protocols, and payload data
+
+### Task 2: Phishing Awareness Training  
+- Comprehensive presentation on identifying phishing attacks
+- Social engineering prevention strategies
+- Best practices for email security
+
+### Task 3: Network Intrusion Detection System (NIDS)
+- Snort/Suricata configuration and rule setup
+- Network monitoring and threat detection
+- Attack visualization and analysis
