@@ -1,0 +1,7 @@
+Source: 192.168.100.66 --> Destination: 150.171.22.17 | Protocol: TCP
+Source: 150.171.22.17 --> Destination: 192.168.100.66 | Protocol: TCP
+Source: 192.168.100.66 --> Destination: 52.182.143.213 | Protocol: TCP
+Source: 192.168.100.66 --> Destination: 150.171.74.13 | Protocol: TCP
+Source: 150.171.74.13 --> Destination: 192.168.100.66 | Protocol: TCP
+Source: 52.182.143.213 --> Destination: 192.168.100.66 | Protocol: TCP
+Source: 192.168.100.66 --> Destination: 52.182.143.213 | Protocol: TCP
